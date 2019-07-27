@@ -12,10 +12,10 @@ https://core.telegram.org/bots.
 #### Line 198: your Telegram's ID
 
 ## Needed external libraries:
-
-NTPClient
-ESP8266WiFi
-UniversalTelegramBot
+Already in the repository. It's necessary install in the Wemos' libraries folder.
+#### NTPClient
+#### ESP8266WiFi
+#### UniversalTelegramBot
 
 ## Pins: 
 D5, D6, D7 e D8.
