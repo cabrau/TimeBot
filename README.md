@@ -2,10 +2,10 @@
 Este código utiliza a placa Wemos para controlar 4 relés através de um bot do telegram. Através do bot, pode-se configurar os horários que os relés estarão ligados e desligados, através de mensagens. É necessário criar um bot utilizando o serviço Botfather. Para mais informaçes, https://core.telegram.org/bots.
 
 ## Alterações necessárias no código:
-Linha 7: token do seu bot
-Linha 17: nome da sua rede WiFi
-Linha 18: senha da sua rede WiFi
-Linha 198: seu ID no Telegram
+### Linha 7: token do seu bot 
+### Linha 17: nome da sua rede WiFi
+### Linha 18: senha da sua rede WiFi
+### Linha 198: seu ID no Telegram
 
 Algumas bibliotecas externas precisam ser instaladas. Basta copiar as pastas para o diretório "libraries" do diretório do Arduino. São essas:
 
