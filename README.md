@@ -1,6 +1,7 @@
+# TimeBot
 Este código utiliza a placa Wemos para controlar 4 relés através de um bot do telegram. Através do bot, pode-se configurar os horários que os relés estarão ligados e desligados, através de mensagens. É necessário criar um bot utilizando o serviço Botfather. Para mais informaçes, https://core.telegram.org/bots.
 
-##Alterações necessárias no código:
+## Alterações necessárias no código:
 Linha 7: token do seu bot
 Linha 17: nome da sua rede WiFi
 Linha 18: senha da sua rede WiFi
@@ -14,7 +15,7 @@ UniversalTelegramBot
 
 Pinos utilizados: D5, D6, D7 e D8.
 
-##Formato das mensagens: 
+## Formato das mensagens: 
 RELE1 00:00 23:59
 
 Onde, 
